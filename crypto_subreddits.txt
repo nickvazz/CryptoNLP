@@ -1,0 +1,34 @@
+/crypto, all
+/crypto_currency_news, all
+/icocrypto, all
+/blockchain, all
+/coinbase, all
+/cryptocurrencytrading, all
+/cryptocurrency, all
+/ethtrader, ethereum
+/ethinsider, ethereum
+/ethtrader, ethereum
+/ethereum, ethereum
+/ethermining, ethereum
+/ripple, other
+/altcoin, other
+/dashpay, other
+/cryptomarkets, other
+/vertcoin, other
+/xmr, monero
+/monero, monero
+/moneromining, monero
+/dogemarket, doge
+/dogecoin, doge
+/dogemining, doge
+/ltc, litecoin
+/litecoin, litecoin
+/bitcoincash, bitcoin cash
+/btc, bitcoin cash
+/bitcoinmining, bitcoin
+/bitcoinbeginners, bitcoin
+/bitmarket, bitcoin
+/bitcoinserious, bitcoin
+/bitcoin_uncensored, bitcoin
+/bitcoin, bitcoin
+/bitcoinmarkets, bitcoin
